@@ -1,11 +1,11 @@
 baseURL = 'https://hugoblogapp.com'
 languageCode = 'en-us'
-title = 'Lama dev blog'
+title = 'Muyinda Brian Blog'
 
 paginate = 4
 
 [params]
-  description = "The fastest blog"
+  description = "Web Developer| Web Developer Uganda | Web Designer| Mobile App Developer Uganda"
   dateFormat = "Jan 2, 2006"
 
 [taxonomies]
